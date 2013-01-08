@@ -31,7 +31,7 @@ public class Grep {
 
 	/**
 	 * grep() - greps for a pattern in a given array of files
-	 * 
+	 *
 	 * @param s
 	 *            - the pattern we are looking for
 	 * @param files
@@ -46,7 +46,7 @@ public class Grep {
 
 	/**
 	 * grep() - greps for a pattern in a given file
-	 * 
+	 *
 	 * @param s
 	 *            - the pattern we are looking for
 	 * @param f
@@ -78,7 +78,7 @@ public class Grep {
 	/**
 	 * lgrep() - greps for pattern in a given file and returns the result in a
 	 * List of String
-	 * 
+	 *
 	 * @param s
 	 *            - the pattern we are looking for
 	 * @param f
@@ -114,7 +114,7 @@ public class Grep {
 
 	/**
 	 * setOptions() - sets options before grep
-	 * 
+	 *
 	 * @param n
 	 *            - shows the line number
 	 * @param f
